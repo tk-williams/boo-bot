@@ -1,0 +1,3 @@
+C:\Users\tcale\OneDrive\Documents\GitHub Projects\boo_bot\obj\Debug\netcoreapp2.1\boo_bot.csprojAssemblyReference.cache
+C:\Users\tcale\OneDrive\Documents\GitHub Projects\boo_bot\obj\Debug\netcoreapp2.1\boo_bot.AssemblyInfoInputs.cache
+C:\Users\tcale\OneDrive\Documents\GitHub Projects\boo_bot\obj\Debug\netcoreapp2.1\boo_bot.AssemblyInfo.cs
